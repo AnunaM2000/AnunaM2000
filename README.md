@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi, my name is Anuna.
+
+I am currently studying Data Science and learning to code for the **first** time. 
+My pronouns are she/her. 
+
+You can reach me via my email address which is anuna.m@outlook.com. 
 
 <!--
 **AnunaM2000/AnunaM2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
